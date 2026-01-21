@@ -37,7 +37,7 @@
 
 ```bash
 # 下载脚本文件
-wget https://your-repo/scrape_novel.py
+scrape_novel.py
 # 或直接复制代码到本地文件
 ```
 
